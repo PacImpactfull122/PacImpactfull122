@@ -30,12 +30,3 @@ Do assembly x86-64 ao frontend, trabalho em toda a stack.
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
-
----
-
-### Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PacImpactfull122&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PacImpactfull122&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="155"/>
-</p>
