@@ -16,7 +16,7 @@ Do assembly x86-64 ao frontend, trabalho em toda a stack.
 ### Eu codifico com
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,ts,js,lua,postgres,redis,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ts,js,lua,postgres,redis,linux&theme=dark" />
 </p>
 
 <p align="left">
@@ -26,6 +26,7 @@ Do assembly x86-64 ao frontend, trabalho em toda a stack.
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
