@@ -14,7 +14,7 @@ Do assembly x86-64 ao frontend, trabalho em toda a stack.
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif" width="100%" style="border-radius:8px"/>
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100%"/>
 </div>
 
 ---
