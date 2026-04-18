@@ -14,8 +14,7 @@ Do assembly x86-64 ao frontend, trabalho em toda a stack.
 <br/>
 
 <div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="100%" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/b/b4/Serial_Experiments_Lain_DVD_Cover.jpg" width="480" />
+  <img src="https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif" width="100%" style="border-radius:8px"/>
 </div>
 
 ---
