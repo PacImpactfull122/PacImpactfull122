@@ -1,6 +1,6 @@
-## Ola, eu sou o TameImpact
+## Olá, eu sou o TameImpact
 
-Desenvolvedor full stack com foco em sistemas de baixo nivel, performance e infraestrutura.
+Desenvolvedor full stack com foco em sistemas de baixo nível, performance e infraestrutura.
 Do assembly x86-64 ao frontend, trabalho em toda a stack.
 
 ---
@@ -11,15 +11,9 @@ Do assembly x86-64 ao frontend, trabalho em toda a stack.
 - Foco atual: sistemas em C, assembly x86-64 e Rust
 - Curiosidade: gosto de entender como o hardware funciona de verdade
 
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100%"/>
-</div>
-
 ---
 
-### Eu codigo com
+### Eu codifico com
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,ts,js,lua,postgres,redis,linux&theme=dark" />
@@ -39,7 +33,7 @@ Do assembly x86-64 ao frontend, trabalho em toda a stack.
 
 ---
 
-### Estatisticas
+### Estatísticas
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=PacImpactfull122&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="155"/>
