@@ -8,7 +8,7 @@ Do assembly x86-64 ao frontend, trabalho em toda a stack.
 ### Sobre mim
 
 - Construindo coisas desde que aprendi a programar
-- Foco atual: sistemas em C, assembly x86-64 e Rust
+- Foco atual: sistemas em C, assembly x86-64 e Python
 - Curiosidade: gosto de entender como o hardware funciona de verdade
 
 ---
@@ -16,14 +16,13 @@ Do assembly x86-64 ao frontend, trabalho em toda a stack.
 ### Eu codifico com
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ts,js,lua,postgres,redis,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,lua,postgres,redis,linux&theme=dark" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly_x86--64-6E4C13?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
